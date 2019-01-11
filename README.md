@@ -4,7 +4,7 @@ Template File dan Project untuk XCode. Dalam repo ini menyediakan beberapa Templ
 
 * **VIPER**
 
-## Requierements
+## Requirements
 
 * XCode 10 ^
 
