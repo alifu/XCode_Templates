@@ -10,7 +10,7 @@ Template File dan Project untuk XCode. Dalam repo ini menyediakan beberapa Templ
 
 ## Instalasi
 
-Silahkan memilih jenis template yang ingin digunkan, kemudian `copy` ke dalam:
+Silahkan memilih jenis template yang ingin digunakan, kemudian `copy` ke dalam:
 
 Untuk File
 ```
