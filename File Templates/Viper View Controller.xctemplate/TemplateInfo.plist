@@ -50,8 +50,8 @@
 			<key>Type</key>
 			<string>popup</string>
 			<key>Default</key>
-			<string>Swift</string>
-			<key>Value</key>
+			<string>Objective-C</string>
+			<key>Values</key>
 			<array>
 				<string>Objective-C</string>
 				<string>Swift</string>
