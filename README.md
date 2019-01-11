@@ -1,6 +1,6 @@
 # XCode Templates
 
-Template File dan Project untuk XCode. Dalam repo ini menyediakan beberapa Template Pattern. Template ini sudah mencangkup penggunaan `Objective C` dan `Swift`. Adapaun Pattern yang tersedia:
+Template File dan Project untuk XCode. Dalam repo ini menyediakan beberapa Template Pattern. Template ini sudah mencangkup penggunaan `Objective C` dan `Swift`. Adapun Pattern yang tersedia:
 
 * **VIPER**
 
