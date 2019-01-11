@@ -12,12 +12,12 @@ Template File dan Project untuk XCode. Dalam repo ini menyediakan beberapa Templ
 
 Silahkan memilih jenis template yang ingin digunkan, kemudian `copy` ke dalam:
 
-Untuk Project
+Untuk File
 ```
 ~/Library/Developer/Xcode/Templates/File\ Templates/[nama_folder_custom]/
 ```
 
-Untuk File
+Untuk Project
 ```
 ~/Library/Developer/Xcode/Templates/Project\ Templates/[nama_folder_custom]/
 ```
