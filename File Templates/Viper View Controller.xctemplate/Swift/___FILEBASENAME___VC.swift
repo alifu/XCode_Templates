@@ -2,7 +2,7 @@
 
 import UIKit
 
-class ___VARIABLE_ModuleName___VC: UIViewController  {
+class ___VARIABLE_ModuleName___VC: UIViewController {
 
     var presenter: ___VARIABLE_ModuleName___PresenterProtocol?
     
