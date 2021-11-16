@@ -2,20 +2,21 @@
 
 import UIKit
 
-class ___VARIABLE_ModuleName___VC: UIViewController {
+final class ___VARIABLE_ModuleName___VC: UIViewController {
+
+    // MARK: - Accessable
 
     var presenter: ___VARIABLE_ModuleName___PresenterProtocol?
+
+    // MARK: - Private
+
+    // MARK: - Lifecycle
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        
-        /// Tulis Code Disini
     }
-    
 }
 
-extension ___VARIABLE_ModuleName___VC: ___VARIABLE_ModuleName___ViewProtocol {
-    
-    /// Extension PRESENTER -> VIEW
-    
-}
+// MARK: - Extension PRESENTER -> VIEW
+
+extension ___VARIABLE_ModuleName___VC: ___VARIABLE_ModuleName___ViewProtocol { }
