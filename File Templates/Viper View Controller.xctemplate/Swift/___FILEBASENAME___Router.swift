@@ -12,7 +12,7 @@ final class ___VARIABLE_ModuleName___Router: ___VARIABLE_ModuleName___RouteProto
         let interactor: ___VARIABLE_ModuleName___InteractorInputProtocol = ___VARIABLE_ModuleName___Interactor()
         let router: ___VARIABLE_ModuleName___RouteProtocol = ___VARIABLE_ModuleName___Router()
 
-        // Conecting
+        // Connecting
         view.presenter = presenter
         presenter.view = view
         presenter.wireFrame = router
